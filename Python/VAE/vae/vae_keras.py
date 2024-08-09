@@ -1,10 +1,12 @@
 """
-Title: Variational AutoEncoder 
+Title: Variational AutoEncoder （based on Keras cvae）
 Author: Cam
 Date created: 2024/08/07
 Last modified: 2024/08/08
 Description: Variational AutoEncoder (VAE) trained on MNIST digits. Based on Keras3.4.1,tensorflow2.17.0.
 Accelerator: GPU
+Reference: https://github.com/keras-team/keras-io/blob/master/examples/generative/vae.py
+Reference paper: https://arxiv.org/pdf/1312.6114
 """
 
 """
