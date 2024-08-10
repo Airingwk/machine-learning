@@ -7,6 +7,7 @@ Description: Variational AutoEncoder (VAE) trained on MNIST digits. Based on Ker
 Accelerator: GPU
 Reference: https://github.com/keras-team/keras-io/blob/master/examples/generative/vae.py
 Reference paper: https://arxiv.org/pdf/1312.6114
+Notes: This code is successfully running on Pycharm2023.3.2 , Windows 11.
 """
 
 """
